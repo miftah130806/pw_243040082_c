@@ -1,3 +1,4 @@
+
 <?php
 // Inisialisasi variabel dengan 2 digit terakhir NPM
 $angka = 54; // Ganti dengan 2 digit terakhir NPM Anda
